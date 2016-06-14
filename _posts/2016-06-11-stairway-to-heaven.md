@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-14T19:57:25.820Z'
-dateModified: '2016-06-14T19:57:17.680Z'
+datePublished: '2016-06-14T19:57:46.303Z'
+dateModified: '2016-06-14T19:57:45.503Z'
 title: stairway to heaven
 author: []
 sourcePath: _posts/2016-06-11-stairway-to-heaven.md
