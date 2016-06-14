@@ -11,8 +11,8 @@ description: ajans & konsept
 app_links: []
 isBasedOnUrl: 'http://funzyn.com/portfolyo/'
 title: portfolyo
-datePublished: '2016-06-14T20:05:28.234Z'
-dateModified: '2016-06-14T20:05:11.086Z'
+datePublished: '2016-06-14T20:09:38.169Z'
+dateModified: '2016-06-14T20:05:18.792Z'
 starred: false
 sourcePath: _posts/2016-06-14-portfolyo.md
 inFeed: true
