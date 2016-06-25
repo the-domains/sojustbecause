@@ -1,33 +1,33 @@
-typography_spectrum: 0.2892500211019069
-color:
-  brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-  brandStrength: 0.10260486439801753
-  lightness: 0.9593357394915074
-  saturation: 0.8441650569438934
-  rhythmicContrast: 0.5045492292847484
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.015765431337058544
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: sojustbecause
+favicon: null
+layout_spectrum: 0.7491
+typography_spectrum: 0.88381
 author:
   url: 'http://www.instagram.com/sojustbecause'
   email: sojustbecause@gmail.com
   name: Ercan Küçükaslan
-name: sojustbecause
+title: sojustbecause
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
-title: sojustbecause
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1e1a0f'
+    - '#576781'
+    - '#faf7f2'
+    - '#8290aa'
+    - '#b5b7c3'
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
