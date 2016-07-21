@@ -4,8 +4,15 @@
         <description><![CDATA[sojustbecause]]></description>
         <link>https://thegrid.ai/sojustbecause/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 14:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 15:56:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sojustbecause/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9956ecbe-3f30-4d4a-9c6a-8652143e875b.jpg">]]></description>
+            <link>https://thegrid.ai/sojustbecause/10cbf844-4e74-4e9d-93ec-9af8d61b9433/index.html</link>
+            <guid isPermaLink="false">10cbf844-4e74-4e9d-93ec-9af8d61b9433</guid>
+            <pubDate>Thu, 21 Jul 2016 15:56:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df97302e-ae7f-4a94-a751-80096d95464d.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/504a9872-5972-44d1-af9b-2f96879744ee.jpg">]]></description>
             <link>https://thegrid.ai/sojustbecause/08dee006-9f7d-4a6c-836f-f2b977b8b3bb/index.html</link>
             <guid isPermaLink="false">08dee006-9f7d-4a6c-836f-f2b977b8b3bb</guid>
-            <pubDate>Sat, 25 Jun 2016 21:39:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a17b25f-22f2-44ba-a06f-63d90c079732.jpg">]]></description>
-            <link>https://thegrid.ai/sojustbecause/fbb0b8dc-0a91-4179-9d7e-40d80faa47c4/index.html</link>
-            <guid isPermaLink="false">fbb0b8dc-0a91-4179-9d7e-40d80faa47c4</guid>
             <pubDate>Sat, 25 Jun 2016 21:39:04 GMT</pubDate>
         </item>
     </channel>
